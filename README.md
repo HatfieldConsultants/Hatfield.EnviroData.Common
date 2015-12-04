@@ -1,1 +1,1 @@
-# Hatfield's Environmental Data Management System: Common #
+Obsolete project/repository. Do not use this project! Instead use Hatfield.EnviroData.Core.
